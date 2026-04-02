@@ -1,0 +1,5 @@
+https://github.com/MPaulino0510/Teste
+
+git clone https://github.com/MPaulino0510/Teste
+
+git status
