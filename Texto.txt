@@ -3,3 +3,11 @@ https://github.com/MPaulino0510/Teste
 git clone https://github.com/MPaulino0510/Teste
 
 git status
+
+git add . 
+
+git status
+
+git commit -m "alterando o arquivo de texto
+
+git push
